@@ -7,7 +7,7 @@
     "category": "image",
     "creators": [
       {
-        "address": "<YOUR WALLET ADDRESS>",
+        "address": "<YOUR_WALLET_ADDRESS>",
         "share": 100
       }
     ]
