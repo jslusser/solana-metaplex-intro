@@ -1,16 +1,18 @@
 {
     "price": 1,
     "number": 5,
-    "gatekeeper": {
-        "gatekeeperNetwork": "ignREusXmGrscGNUesoU9mxfds9AiYTezUKex2PsZV6",
-        "expireOnUse": true
-    },
+    "gatekeeper": null,
     "solTreasuryAccount": "2Zv35GbmMR7vg5MzDgPqErgb5m6fo7mECgdaH7dpA3Er",
     "splTokenAccount": null,
     "splToken": null,
-    "goLiveDate": "25 Dec 2020 00:00:00 GMT",
+    "goLiveDate": "25 Dec 2050 00:00:00 GMT",
     "endSettings": null,
-    "whitelistMintSettings": null,
+    "whitelistMintSettings": {
+        "mode": { "burnEveryTime": true },
+        "mint": "dN5NKVJAeFsPrYy5X4jYiqajz1RFUdzJZQx46GkHMcX",
+        "presale": true,
+        "discountPrice": 0.01
+    },
     "hiddenSettings": null,
     "storage": "arweave",
     "ipfsInfuraProjectId": null,
